@@ -26,4 +26,9 @@ cd harpend
 ```
 cabal install bytestring hakyll pandoc
 ```
-
+* Build the site
+```
+ghc --make site/site.hs
+./site/site watch
+```
+* Navigate to `http://localhost:8000` in your browser.
