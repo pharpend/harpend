@@ -1,71 +1,49 @@
-Henry C Harpending {.bighead}
-==================
+---
+title: Henry C Harpending
+---
 
-Thomas Chair {.medhead}
-------------
+# Henry C Harpending
 
-Distinguished Professor of Anthropology {.medhead}
----------------------------------------
+Thomas Chair, Distinguished Professor of Anthropology
 
-* * * * *
+![](images/hch.jpg "Harpending Photo") {.img-responsive}
 
-![](harpending/henry_files/hch.jpg "Harpending Photo")
+* If it is 1960, and email has yet to be invented, you can contact me by paper mail
 
-Department of Anthropology\
- University of Utah\
- 270 South 1440 East, Room 102\
- Salt Lake City, Utah 84112-0060\
- USA
+    Department of Anthropology
+    University of Utah
+    270 South 1440 East, Room 102
+    Salt Lake City, Utah 84112-0060
+    USA
 
-Email
+* Email: $harpend_email$
+* Phone:
+    (801) 581-3776 (office)
+    (801) 581-6251 (department)
+* Office is ST 121
 
-harpend at gmail dot com
+# Research Interests
 
-Phone:
+I am an anthropologist interested in preindustrial populations, the history of
+modern humans, and the evolution of human social life. My recent work is about
+genetic diversity within and between human populations.
 
-\(801) 581-3776 (office)
+Some genetic markers, such as mitochondrial DNA, microsatellites, and
+quantitative traits, evolve rapidly enough to have information about size and
+isolation of subpopulations in the recent past. We have found evidence that our
+species had only a few thousand members during the last interglacial and that
+there were several subsequent demographic expansions, the earliest among the
+ancestors of contemporary sub-Saharan Africans.
 
-\(801) 581-6251 (department)
+I have also done fieldwork with several groups in southern Africa, concentrating
+on family demographic histories.
 
-Fax:
+My particular interests have been the effects of infectious infertility on
+population structure, consequences of preferential treatment of children by sex
+for mortality and for growth and development, and the relationships among
+wealth, family organization, and individual reproductive outcomes.
 
-\(801) 581-6252
-
-Office:
-
-121 Stewart Building
-
-* * * * *
-
-Research Interests
-------------------
-
-I am an anthropologist interested in preindustrial populations, the
-history of modern humans, and the evolution of human social life. My
-recent work is about genetic diversity within and between human
-populations. Some genetic markers, such as mitochondrial DNA,
-microsatellites, and quantitative traits, evolve rapidly enough to have
-information about size and isolation of subpopulations in the recent
-past. We have found evidence that our species had only a few thousand
-members during the last interglacial and that there were several
-subsequent demographic expansions, the earliest among the ancestors of
-contemporary sub-Saharan Africans. I have also done fieldwork with
-several groups in southern Africa, concentrating on family demographic
-histories. My particular interests have been the effects of infectious
-infertility on population structure, consequences of preferential
-treatment of children by sex for mortality and for growth and
-development, and the relationships among wealth, family organization,
-and individual reproductive outcomes.
-
-My CV is [here.](henry_files/hchcv.pdf)
-
-Courses
--------
-
-Spring 2012 course material is [here.](Sites/)
-
-Selected Publications
----------------------
+# Selected Publications
 
 -   Cochran, Gregory, and Henry Harpending. 2009. *[The 10,000 Year
     Explosion: How Civilization Accelerated Human
@@ -90,9 +68,9 @@ Selected Publications
     *Science* 309:1995-1997. [doi:
     10.1126/science.309.5743.1995b](http://www.sciencemag.org/cgi/content/full/sci;309/5743/1995b)
 
-Additional Documents
---------------------
+# Additional Documents
 
+-   [Curriculum Vitae](/etc/cv.pdf)
 -   Some reprints and preprints are [here.](Documents/)
 -   An antique population genetic program for analyzing gene
     frequencies, popstr, is [here](/popstr/)
