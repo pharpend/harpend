@@ -6,9 +6,11 @@ title: Henry C Harpending
 
 Thomas Chair, Distinguished Professor of Anthropology
 
-![](images/hch.jpg "Harpending Photo") {.img-responsive}
+<img class="img-responsive" src="/images/hch.jpg">
 
-* If it is 1960, and email has yet to be invented, you can contact me by paper mail
+## Contact
+
+If it is 1960, and email has yet to be invented, you can contact me by paper mail
 
     Department of Anthropology
     University of Utah
@@ -16,13 +18,19 @@ Thomas Chair, Distinguished Professor of Anthropology
     Salt Lake City, Utah 84112-0060
     USA
 
-* Email: $harpend_email$
-* Phone:
+Email:
+<code>
+    <span class="email">moc.liamg@dneprah</span>
+</code>
+
+Phone: 
+
     (801) 581-3776 (office)
     (801) 581-6251 (department)
-* Office is ST 121
 
-# Research Interests
+Office is ST 121
+
+## Research Interests
 
 I am an anthropologist interested in preindustrial populations, the history of
 modern humans, and the evolution of human social life. My recent work is about
@@ -43,7 +51,7 @@ population structure, consequences of preferential treatment of children by sex
 for mortality and for growth and development, and the relationships among
 wealth, family organization, and individual reproductive outcomes.
 
-# Selected Publications
+## Selected Publications
 
 -   Cochran, Gregory, and Henry Harpending. 2009. *[The 10,000 Year
     Explosion: How Civilization Accelerated Human
@@ -81,8 +89,7 @@ wealth, family organization, and individual reproductive outcomes.
     cajoling and threats. We would be grateful for any feedback about
     it.
 
-Links
------
+## Links
 
 ### [Anthropology Faculty at the University of Utah](http://www.anthro.utah.edu/faculty.html) {#anthropology_faculty_at_the_university_of_utah_}
 

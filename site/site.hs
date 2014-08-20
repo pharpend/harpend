@@ -1,16 +1,14 @@
---------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
 import       Data.ByteString.Lazy (ByteString)
 import       Data.ByteString.Lazy.Char8 (unpack)
-import       Data.Monoid (mappend)
+import       Data.Monoid (mappend, <>)
+import       Data.Text (Text, reverse)
 import       Hakyll
+import       Prelude hiding (reverse)
 import       System.Posix.Resource
 
 
---------------------------------------------------------------------------------
-
 -- | Process SASS
---
 sass = getResourceLBS
   >>= withItemBody (unixFilterLBS "sass" ["--stdin", "--style", "expanded"])
   >>= return . fmap unpack
