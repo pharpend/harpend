@@ -1,10 +1,10 @@
 {-# LANGUAGE OverloadedStrings #-}
-import       Data.ByteString.Lazy (ByteString)
-import       Data.ByteString.Lazy.Char8 (unpack)
-import       Data.Monoid (mappend)
-import       Hakyll
-import       Prelude hiding (reverse)
-import       System.Posix.Resource
+import Data.ByteString.Lazy (ByteString)
+import Data.ByteString.Lazy.Char8 (unpack)
+import Data.Monoid (mappend)
+import Hakyll
+import Prelude hiding (reverse)
+import System.Posix.Resource
 
 
 -- | Process SASS
@@ -14,6 +14,10 @@ sass = getResourceLBS
 
 main :: IO ()
 main = hakyll $ do
+  match "etc/*" $ do
+    route idRoute
+    compile copyFileCompiler
+
   match "images/*" $ do
     route idRoute
     compile copyFileCompiler
