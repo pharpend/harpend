@@ -6,7 +6,7 @@ title: Henry C Harpending
 
 Thomas Chair, Distinguished Professor of Anthropology
 
-<img class="img-responsive" src="/images/hch.jpg">
+<img class="thumbnail img-responsive" src="/images/hch.jpg">
 
 ## Contact
 
